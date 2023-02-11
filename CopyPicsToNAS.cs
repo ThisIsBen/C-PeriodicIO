@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Threading;
 
-namespace DataManagementApp
+namespace App
 {
     class CopyPicsToNAS
     {
