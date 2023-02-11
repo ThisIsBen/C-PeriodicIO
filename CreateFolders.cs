@@ -2,7 +2,7 @@
 using System.IO;
 using System.Threading;
 
-namespace DataManagementApp
+namespace App
 {
     class CreateFolders
     {
