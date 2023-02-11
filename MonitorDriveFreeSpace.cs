@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DataManagementApp
+namespace App
 {
     //[「古い画像削除進捗非常に遅い」により、カメラフォルダードライブの容量不足対策]
     class MonitorDriveFreeSpace
