@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DataManagementApp
+namespace App
 {
     //古いデータ自動削除機能:
     //定期的に指定したフォルダ内の更新時間が時間閾値より前の古いフォルダとファイルを削除する
